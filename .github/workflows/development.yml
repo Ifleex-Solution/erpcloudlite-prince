@@ -19,4 +19,4 @@ jobs:
       with:
         server: ${{ secrets.HOSTDEV  }}
         username: ${{ secrets.USERNAMEDEV  }}
-        password: ${{secrets.USERNAMEDEV }}
+        password: ${{secrets.PASSWORDDEV }}
